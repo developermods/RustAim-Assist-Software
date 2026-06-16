@@ -18,3 +18,4 @@ Low-Latency Input: Hardware-level mouse movement emulation based on AI coordinat
 Tech Stack
 Python, PyTorch, OpenCV, CUDA.
 <img width="1024" height="304" alt="d8093ed7-6ecc-4b26-9ccb-c4c350ed9663" src="https://github.com/user-attachments/assets/ea98ea57-7dd4-4421-8571-3f4b2a458ead" />
+
