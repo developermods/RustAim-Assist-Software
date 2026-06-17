@@ -39,4 +39,3 @@ Python, PyTorch, OpenCV, CUDA.
 
 
 
-​
