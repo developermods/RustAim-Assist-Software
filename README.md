@@ -75,7 +75,7 @@
 <img width="1024" height="304" alt="d8093ed7-6ecc-4b26-9ccb-c4c350ed9663" src="https://github.com/user-attachments/assets/ea98ea57-7dd4-4421-8571-3f4b2a458ead" />
 
 
-#computer-vision, #object-detection, #pytorch, #rust-game, #rust-modding, #facepunch-studios, #unity3d-engine, #ballistics-solver, #recoil-analysis, #fps-games
+computer-vision, object-detection, pytorch, rust-game, rust-modding, facepunch-studios, unity3d-engine, ballistics-solver, recoil-analysis, fps-games
 
 
 
